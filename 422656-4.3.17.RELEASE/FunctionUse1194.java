@@ -1,0 +1,7 @@
+import org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver;
+public class FunctionUse1194 {
+public void funcUse() {
+AbstractMessageConverterMethodArgumentResolver abstractmessageconvertermethodargumentresolver = new AbstractMessageConverterMethodArgumentResolver();
+abstractmessageconvertermethodargumentresolver.adaptArgumentIfNecessary(null,null);
+}
+}
